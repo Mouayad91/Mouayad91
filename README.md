@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Mouayad 
-- 👀 I’m interested in games development and Hardware.
+- 👀 I’m interested in games development.
 - 🌱 I’m currently learning computer science.
